@@ -1,7 +1,6 @@
 package com.externalapi.externalapi.controller;
 
 import com.externalapi.externalapi.Models.Todo;
-
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
